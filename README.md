@@ -25,7 +25,7 @@
 
 - Avarage Case 
 
-#[7,3,5,8,2,9,4,15,6]-> Insertion sort ilk 4 adım
+# [7,3,5,8,2,9,4,15,6]-> Insertion sort ilk 4 adım
 
 -[7,3,5,8,2,9,4,15,6]
 -[2,3,5,8,7,9,4,15,6]
